@@ -1,0 +1,683 @@
+event_type,city,venue_id,start_date,artist_id,artist_name
+Concert,Talence,linconnue-a-talence-73805,2024-11-23T10:30:00,patrice-caumon-54409,PATRICE CAUMON
+Concert,Bordeaux,iboat-a-bordeaux-39764,2024-11-23T20:00:00,anais-mva-218615,ANAIS MVA
+Concert,Saint Denis de Pile,laccordeur-41207,2024-11-23T20:00:00,cats-claw-237709,CAT'S CLAW
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-11-23T20:30:00,the-rabeats-tribute-to-the-beatles-25782,THE RABEATS TRIBUTE TO THE BEATLES
+Concert,Merignac,le-krakatoa-1294,2024-11-23T20:30:00,ultra-vomit-28429,ULTRA VOMIT
+Concert,Bordeaux,rock-school-barbey-3069,2024-11-23T20:30:00,papooz-102297,PAPOOZ
+Concert,Le Haillan,lentrepot-du-haillan-11910,2024-11-23T20:30:00,quand-je-serai-grande-je-serai-patrick-swayze-14065,QUAND JE SERAI GRANDE JE SERAI PATRICK SWAYZE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-11-23T20:30:00,oldelaf-20273,OLDELAF
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-11-23T20:30:00,gapman-218559,GAPMAN
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-11-23T20:30:00,black-lives-from-generation-to-generation-195481,BLACK LIVES (From Generation to Generation)
+Concert,Pessac,sortie-13-54687,2024-11-23T20:45:00,heeka-181893,HEEKA
+Concert,Captieux,centre-culturel-de-captieux-49619,2024-11-23T21:00:00,les-blattes---hommage-aux-beattles-234077,LES BLATTES - HOMMAGE AUX BEATTLES
+Concert,Lanton,le-baryton-a-lanton-29825,2024-11-23T21:30:00,julien-allafort-trio-214219,JULIEN ALLAFORT TRIO
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-11-24T00:00:00,cimafunk-165670,CIMAFUNK
+Concert,Targon,espace-rene-lazare-a-targon-36297,2024-11-24T16:00:00,alain-sourigues-11688,ALAIN SOURIGUES
+Concert,Arcachon,theatre-olympia-darcachon-7976,2024-11-24T17:00:00,on-est-ensemble-14405,ON EST ENSEMBLE
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-11-24T18:00:00,kenny-barron-843,KENNY BARRON
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-11-24T19:00:00,the-world-of-hans-zimmer---a-new-dimension-13817,THE WORLD OF HANS ZIMMER - A NEW DIMENSION
+Concert,Bordeaux,theatre-femina-1324,2024-11-24T19:00:00,medine-45584,MEDINE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-11-24T20:30:00,mammal-hands-156122,MAMMAL HANDS
+Concert,Pessac,mediatheque-jacques-ellul-a-pessac-18538,2024-11-25T11:30:00,jp-nataf-19717,JP NATAF
+Concert,Bordeaux,theatre-femina-1324,2024-11-25T20:30:00,can-cakmur-186947,CAN CAKMUR
+Concert,Bordeaux,theatre-femina-1324,2024-11-26T20:00:00,john-williams-209789,JOHN WILLIAMS & HANS ZIMMER ODYSSEY
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-11-26T20:00:00,arcadi-volodos-49132,ARCADI VOLODOS
+Concert,Pessac,le-galet-a-pessac-18475,2024-11-26T20:00:00,salvatore-caputo-180206,SALVATORE CAPUTO
+Concert,Talence,linconnue-a-talence-73805,2024-11-27T19:30:00,alaska-gold-rush-128880,ALASKA GOLD RUSH
+Concert,Bordeaux,theatre-femina-1324,2024-11-27T20:00:00,john-williams-209789,JOHN WILLIAMS & HANS ZIMMER ODYSSEY
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-11-27T20:00:00,edgar-moreau-83639,EDGAR MOREAU
+Concert,Bordeaux,iboat-a-bordeaux-39764,2024-11-27T20:30:00,colours-in-the-street-108296,COLOURS IN THE STREET
+Concert,Merignac,le-pin-galant-7410,2024-11-27T20:30:00,puccini-giacomo-puccini-127128,PUCCINI (GIACOMO PUCCINI)
+Concert,Le Haillan,lentrepot-du-haillan-11910,2024-11-27T20:30:00,david-lafore-4817,DAVID LAFORE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-11-27T20:30:00,alice-russell-31906,ALICE RUSSELL
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-11-27T20:30:00,johnny-jane-180925,JOHNNY JANE
+Concert,Bordeaux,la-grande-poste-a-bordeaux-55819,2024-11-27T20:30:00,la-grande-poste-comedy-club-243789,LA GRANDE POSTE COMEDY CLUB
+Concert,Bordeaux,salle-des-fetes-du-grand-parc-a-bordeaux-27751,2024-11-28T00:00:00,tagada-jones-14162,TAGADA JONES
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-11-28T20:00:00,zaho-de-sagazan-190371,ZAHO DE SAGAZAN
+Concert,Bordeaux,blonde-venus-a-bordeaux-64359,2024-11-28T20:20:00,franck-179683,FRANCK & DAMIEN
+Concert,Bordeaux,theatre-femina-1324,2024-11-28T20:30:00,camille-25529,CAMILLE
+Concert,Bordeaux,rock-school-barbey-3069,2024-11-28T20:30:00,malik-djoudi-158014,MALIK DJOUDI
+Concert,Merignac,le-pin-galant-7410,2024-11-28T20:30:00,mnozil-brass-24892,MNOZIL BRASS
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-11-28T20:30:00,thomas-valverde-56221,THOMAS VALVERDE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-11-28T20:30:00,8ruki-180209,8RUKI
+Concert,Bordeaux,theatre-femina-1324,2024-11-28T20:30:00,paname-comedy-club-218007,PANAME COMEDY CLUB
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2024-11-28T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-11-29T20:00:00,vitaa-41691,VITAA
+Concert,Bordeaux,iboat-a-bordeaux-39764,2024-11-29T20:00:00,the-doug-183322,THE DOUG
+Concert,Bordeaux,theatre-moliere---scene-daquitaine-2936,2024-11-29T20:00:00,massacre-a-la-princesse-interdit-aux-enfants-217359,MASSACRE A LA PRINCESSE INTERDIT AUX ENFANTS
+Concert,Saint Denis de Pile,laccordeur-41207,2024-11-29T20:00:00,the-cinelli-brothers-175687,THE CINELLI BROTHERS
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2024-11-29T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,rock-school-barbey-3069,2024-11-30T00:00:00,chilla-163199,CHILLA
+Concert,Bordeaux,palais-des-congres-de-bordeaux-13041,2024-11-30T20:00:00,nadau-19624,NADAU
+Concert,Bordeaux,theatre-moliere---scene-daquitaine-2936,2024-11-30T20:00:00,massacre-a-la-princesse-interdit-aux-enfants-217359,MASSACRE A LA PRINCESSE INTERDIT AUX ENFANTS
+Concert,Bordeaux,theatre-femina-1324,2024-11-30T20:30:00,felicitations-et-tout-et-tout-benjamin-tranie-14319,"FELICITATIONS ET TOUT, ET TOUT (Benjamin Tranié)"
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-11-30T20:30:00,flavia-coelho-92833,FLAVIA COELHO
+Concert,Bordeaux,iboat-a-bordeaux-39764,2024-11-30T20:30:00,thea-211447,THEA
+Concert,Bordeaux,salle-des-fetes-du-grand-parc-a-bordeaux-27751,2024-11-30T20:30:00,dimension-bonus-205777,DIMENSION BONUS
+Concert,Saint Loubes,la-coupole-de-saint-loubes-2397,2024-11-30T20:30:00,fair-play-philippe-leygnac--patrice-thibaud-133625,FAIR PLAY (PHILIPPE LEYGNAC / PATRICE THIBAUD)
+Concert,La Teste de Buch,theatre-pierre-cravey--a-la-teste-de-buch-49768,2024-11-30T20:30:00,alain-chamfort-15256,ALAIN CHAMFORT
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2024-11-30T20:30:00,troupe-des-portes-du-medoc-243803,TROUPE DES PORTES DU MEDOC
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2024-11-30T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Bordeaux,palais-des-congres-de-bordeaux-13041,2024-12-01T16:00:00,nadau-19624,NADAU
+Concert,Villandraut,eglise-villandraut-77047,2024-12-01T16:00:00,francois-corneloup-802,FRANCOIS CORNELOUP
+Concert,Bordeaux,rock-school-barbey-3069,2024-12-01T18:00:00,bad-nerves-173682,BAD NERVES
+Concert,Bordeaux,theatre-femina-1324,2024-12-01T18:00:00,les-cles-de-votre-energie-natacha-calestreme-14513,LES CLES DE VOTRE ENERGIE (NATACHA CALESTREME)
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-02T20:00:00,renaud-capucon-53182,RENAUD CAPUCON
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2024-12-02T20:30:00,sandrine-sarroche-63229,SANDRINE SARROCHE
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-03T20:00:00,the-very-best-of-john-williams-180165,THE VERY BEST OF JOHN WILLIAMS
+Concert,Bordeaux,theatre-moliere---scene-daquitaine-2936,2024-12-03T20:00:00,massacre-a-la-princesse-interdit-aux-enfants-217359,MASSACRE A LA PRINCESSE INTERDIT AUX ENFANTS
+Concert,Pessac,le-galet-a-pessac-18475,2024-12-03T20:00:00,eric-emmanuel-schmitt-167807,ERIC EMMANUEL SCHMITT
+Concert,Bordeaux,iboat-a-bordeaux-39764,2024-12-04T19:30:00,la-jungle-178795,LA JUNGLE
+Concert,Bordeaux,theatre-femina-1324,2024-12-04T20:30:00,ca-valait-le-coup--13849,CA VALAIT LE COUP !
+Concert,Le Haillan,lentrepot-du-haillan-11910,2024-12-04T20:30:00,ondes-237087,ONDES
+Concert,Bordeaux,la-grande-poste-a-bordeaux-55819,2024-12-04T20:30:00,la-grande-poste-comedy-club-243789,LA GRANDE POSTE COMEDY CLUB
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-05T00:00:00,emily-loizeau-27512,EMILY LOIZEAU
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-05T00:00:00,emily-loizeau-27512,EMILY LOIZEAU
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-05T20:00:00,werenoi-207193,WERENOI
+Concert,Bordeaux,theatre-moliere---scene-daquitaine-2936,2024-12-05T20:00:00,massacre-a-la-princesse-interdit-aux-enfants-217359,MASSACRE A LA PRINCESSE INTERDIT AUX ENFANTS
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-05T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-05T20:00:00,sheku-kanneh-mason-176862,SHEKU KANNEH-MASON
+Concert,Bordeaux,theatre-femina-1324,2024-12-05T20:30:00,ca-valait-le-coup--13849,CA VALAIT LE COUP !
+Concert,Bordeaux,rock-school-barbey-3069,2024-12-05T20:30:00,sam-quealy-191427,SAM QUEALY
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2024-12-05T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Arcachon,theatre-olympia-darcachon-7976,2024-12-05T21:00:00,generation-django-212129,GENERATION DJANGO
+Concert,Bordeaux,deus-ex-machina-75099,2024-12-06T00:00:00,we-hate-you-please-die-170942,WE HATE YOU PLEASE DIE
+Concert,Lanton,le-baryton-a-lanton-29825,2024-12-06T00:00:00,fu-20501,FU
+Concert,Talence,linconnue-a-talence-73805,2024-12-06T19:30:00,menni-jab-221511,MENNI JAB
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-06T19:30:00,la-petite-vendeuse-de-soleil-209263,LA PETITE VENDEUSE DE SOLEIL
+Concert,Bordeaux,iboat-a-bordeaux-39764,2024-12-06T19:30:00,headcharger-32391,HEADCHARGER
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-06T20:00:00,disney-en-concert-180634,DISNEY EN CONCERT
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-06T20:00:00,houdi-208233,HOUDI
+Concert,Saint Denis de Pile,laccordeur-41207,2024-12-06T20:00:00,ladies-ballbreaker-142273,LADIES BALLBREAKER
+Concert,Merignac,le-pin-galant-7410,2024-12-06T20:30:00,passe-simple-13707,PASSE SIMPLE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-06T20:30:00,heroes-177632,HEROES
+Concert,Bordeaux,theatre-femina-1324,2024-12-06T20:30:00,simon-astier-238855,SIMON ASTIER
+Concert,Bordeaux,theatre-inox-ex---theatre-onyx-a-bordeaux-20279,2024-12-06T20:30:00,askehoug-105916,ASKEHOUG
+Concert,Arcachon,theatre-olympia-darcachon-7976,2024-12-06T21:00:00,jeanne-michard-180653,JEANNE MICHARD
+Concert,Pessac,sortie-13-54687,2024-12-06T21:00:00,soren-243049,SOREN
+Concert,Lanton,le-baryton-a-lanton-29825,2024-12-07T00:00:00,jazzymute-91452,JAZZYMUTE
+Concert,Pessac,mediatheque-jacques-ellul-a-pessac-18538,2024-12-07T11:30:00,eddie-dhaini-122418,EDDIE DHAINI
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-08T18:00:00,patrick-fiori-25357,PATRICK FIORI
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-09T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-09T20:00:00,ensemble-pygmalion-54320,ENSEMBLE PYGMALION
+Concert,Arcachon,theatre-olympia-darcachon-7976,2024-12-10T20:30:00,yabin-dance-company-237713,YABIN DANCE COMPANY
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2024-12-10T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-11T20:00:00,patrick-bruel-11633,PATRICK BRUEL
+Concert,Bordeaux,theatre-moliere---scene-daquitaine-2936,2024-12-11T20:00:00,massacre-a-la-princesse-interdit-aux-enfants-217359,MASSACRE A LA PRINCESSE INTERDIT AUX ENFANTS
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-11T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Bordeaux,rock-school-barbey-3069,2024-12-11T20:30:00,king-hannah-190845,KING HANNAH
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-11T20:30:00,thahomey-175921,THAHOMEY
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2024-12-11T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Bordeaux,iboat-a-bordeaux-39764,2024-12-12T19:30:00,uto-159097,UTO
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-12T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-12T20:30:00,vedette-20-alban-ivanov-12065,VEDETTE 2.0 (Alban Ivanov)
+Concert,La Teste de Buch,theatre-pierre-cravey--a-la-teste-de-buch-49768,2024-12-12T20:30:00,reconditionnee-13347,RECONDITIONNEE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-12T20:30:00,saulius-petreikis-241889,SAULIUS PETREIKIS
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-12T20:30:00,the-big-idea-161188,THE BIG IDEA
+Concert,Cenon,espace-simone-signoret-68597,2024-12-12T20:30:00,canopee-boris-vigneron-236295,CANOPEE (Boris Vigneron)
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-12T20:30:00,caravan-palace-42122,CARAVAN PALACE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-13T00:00:00,pepite-155048,PEPITE
+Concert,Lanton,le-baryton-a-lanton-29825,2024-12-13T00:00:00,th3-nobodies-207069,TH3 NOBODIES
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-13T20:00:00,menelik-196,MENELIK
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-13T20:00:00,yodelice-59153,YODELICE
+Concert,Bordeaux,theatre-femina-1324,2024-12-13T20:30:00,solo-marc-antoine-le-bret-13633,SOLO (Marc Antoine Le Bret)
+Concert,Le Haillan,lentrepot-du-haillan-11910,2024-12-13T20:30:00,reconditionnee-13347,RECONDITIONNEE
+Concert,Lanton,le-baryton-a-lanton-29825,2024-12-14T00:00:00,claire-baudouin-243439,CLAIRE BAUDOUIN
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2024-12-14T19:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-14T20:00:00,la-dame-de-pierre-215243,LA DAME DE PIERRE
+Concert,Saint Denis de Pile,laccordeur-41207,2024-12-14T20:00:00,menni-jab-221511,MENNI JAB
+Concert,Bordeaux,theatre-femina-1324,2024-12-14T20:30:00,madame-arthur-ensorcelle-disney-14229,MADAME ARTHUR ENSORCELLE DISNEY
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2024-12-14T20:30:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,rock-school-barbey-3069,2024-12-14T20:30:00,kuroy-lenid-243753,KUROY LENID
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-15T15:30:00,la-dame-de-pierre-215243,LA DAME DE PIERRE
+Concert,Bordeaux,theatre-femina-1324,2024-12-15T16:00:00,casse-noisette-ballet-national-ukrainien-dodessa-220201,CASSE NOISETTE (Ballet National Ukrainien d'Odessa)
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-16T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-17T20:00:00,culot-12771,CULOT
+Concert,Bordeaux,iboat-a-bordeaux-39764,2024-12-18T00:00:00,marguerite-thiam-204041,MARGUERITE THIAM
+Concert,Bordeaux,theatre-femina-1324,2024-12-18T20:00:00,le-lac-des-cygnes-franceconcert-2025-211865,LE LAC DES CYGNES (Franceconcert 2025)
+Concert,Bordeaux,cafe-theatre-des-beaux-arts-a-bordeaux-22142,2024-12-18T20:30:00,une-vie-sur-mesure-114417,UNE VIE SUR MESURE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2024-12-18T20:30:00,rk-169847,RK
+Concert,Bordeaux,rock-school-barbey-3069,2024-12-19T00:00:00,moha-mmz-237091,MOHA MMZ
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-19T20:00:00,kaaris-122833,KAARIS
+Concert,Lanton,le-baryton-a-lanton-29825,2024-12-20T00:00:00,nku-blues-band-243441,NKU BLUES BAND
+Concert,Lanton,le-baryton-a-lanton-29825,2024-12-20T00:00:00,lightnib-gbird-243947,LIGHTNIB GBIRD
+Concert,Bordeaux,chapiteau-a-bordeaux-51917,2024-12-20T19:30:00,la-tournee-anniversaire-cirque-arlette-gruss-235591,LA TOURNEE ANNIVERSAIRE (Cirque Arlette Gruss)
+Concert,Bordeaux,theatre-moliere---scene-daquitaine-2936,2024-12-20T20:00:00,massacre-a-la-princesse-interdit-aux-enfants-217359,MASSACRE A LA PRINCESSE INTERDIT AUX ENFANTS
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-20T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2024-12-20T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,cafe-theatre-des-beaux-arts-a-bordeaux-22142,2024-12-20T20:30:00,une-vie-sur-mesure-114417,UNE VIE SUR MESURE
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2024-12-20T20:30:00,les-coquettes-138217,LES COQUETTES
+Concert,Bordeaux,cinema-cgr-bordeaux-le-francais-74207,2024-12-20T20:30:00,lecran-pop---la-la-land-239701,L'ECRAN POP - LA LA LAND
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2024-12-20T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Lanton,le-baryton-a-lanton-29825,2024-12-21T00:00:00,small-and-tall-180059,SMALL AND TALL
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-22T15:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-22T16:00:00,casse-noisette-lorchestre-philharmonique-national-de-moldavie-et-le-ballet-academique-de-naples-208629,CASSE NOISETTE (L'Orchestre Philharmonique National de Moldavie et le Ballet Académique de Naples)
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-22T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-23T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2024-12-23T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Bordeaux,theatre-moliere---scene-daquitaine-2936,2024-12-26T20:00:00,massacre-a-la-princesse-interdit-aux-enfants-217359,MASSACRE A LA PRINCESSE INTERDIT AUX ENFANTS
+Concert,Bordeaux,cafe-theatre-des-beaux-arts-a-bordeaux-22142,2024-12-26T20:30:00,barber-shop-quartet-29113,BARBER SHOP QUARTET
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-27T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Floirac,arkea-arena---bordeaux-53144,2024-12-28T20:00:00,harry-potter-et-la-coupe-de-feu-231759,HARRY POTTER ET LA COUPE DE FEU
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-28T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2024-12-30T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2024-12-31T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Bordeaux,chapiteau-a-bordeaux-51917,2025-01-01T15:00:00,la-tournee-anniversaire-cirque-arlette-gruss-235591,LA TOURNEE ANNIVERSAIRE (Cirque Arlette Gruss)
+Concert,Bordeaux,cafe-theatre-des-beaux-arts-a-bordeaux-22142,2025-01-02T20:30:00,barber-shop-quartet-29113,BARBER SHOP QUARTET
+Concert,Bordeaux,chapiteau-a-bordeaux-51917,2025-01-03T14:30:00,la-tournee-anniversaire-cirque-arlette-gruss-235591,LA TOURNEE ANNIVERSAIRE (Cirque Arlette Gruss)
+Concert,Bordeaux,eglise-notre-dame-a-bordeaux-16349,2025-01-03T20:00:00,orchestre-paris-classik-51597,ORCHESTRE PARIS CLASSIK
+Concert,Bordeaux,cafe-theatre-des-beaux-arts-a-bordeaux-22142,2025-01-03T20:30:00,barber-shop-quartet-29113,BARBER SHOP QUARTET
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2025-01-03T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-04T15:00:00,les-10-commandements-lenvie-daimer-220961,"LES 10 COMMANDEMENTS, L'ENVIE D'AIMER"
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-04T20:30:00,les-10-commandements-lenvie-daimer-220961,"LES 10 COMMANDEMENTS, L'ENVIE D'AIMER"
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-05T15:00:00,les-10-commandements-lenvie-daimer-220961,"LES 10 COMMANDEMENTS, L'ENVIE D'AIMER"
+Concert,Bordeaux,eglise-notre-dame-a-bordeaux-16349,2025-01-05T18:00:00,gospel-voices-26197,GOSPEL VOICES
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-01-07T20:30:00,romeo-et-juliette-grand-ballet-de-kiev-236783,ROMEO ET JULIETTE (Grand Ballet de Kiev)
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2025-01-07T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Bordeaux,chapiteau-a-bordeaux-51917,2025-01-08T14:30:00,la-tournee-anniversaire-cirque-arlette-gruss-235591,LA TOURNEE ANNIVERSAIRE (Cirque Arlette Gruss)
+Concert,Bordeaux,theatre-femina-1324,2025-01-08T20:00:00,le-lac-des-cygnes-le-ballet-national-ukrainien-dodessa-153591,LE LAC DES CYGNES (Le Ballet National Ukrainien d'Odessa)
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2025-01-08T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Merignac,le-pin-galant-7410,2025-01-09T20:30:00,andre-manoukian-57088,ANDRE MANOUKIAN
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-01-10T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,theatre-femina-1324,2025-01-10T20:30:00,nuances-13961,NUANCES
+Concert,Bordeaux,rock-school-barbey-3069,2025-01-10T20:30:00,irma-75840,IRMA
+Concert,Merignac,le-pin-galant-7410,2025-01-10T20:30:00,klek-entos-207451,KLEK ENTOS
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-01-10T20:30:00,cali-26941,CALI
+Concert,Bordeaux,theatre-femina-1324,2025-01-11T20:00:00,the-musical-story-of-elvis-219007,THE MUSICAL STORY OF ELVIS
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-01-11T20:30:00,enrico-macias-142,ENRICO MACIAS
+Concert,Bordeaux,theatre-femina-1324,2025-01-14T20:00:00,cali-26941,CALI
+Concert,Bordeaux,theatre-moliere---scene-daquitaine-2936,2025-01-14T20:00:00,massacre-a-la-princesse-interdit-aux-enfants-217359,MASSACRE A LA PRINCESSE INTERDIT AUX ENFANTS
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-14T20:00:00,ninho-157754,NINHO
+Concert,Bordeaux,chapiteau-a-bordeaux-51917,2025-01-15T14:30:00,la-tournee-anniversaire-cirque-arlette-gruss-235591,LA TOURNEE ANNIVERSAIRE (Cirque Arlette Gruss)
+Concert,Bordeaux,chapiteau-a-bordeaux-51917,2025-01-16T19:30:00,la-tournee-anniversaire-cirque-arlette-gruss-235591,LA TOURNEE ANNIVERSAIRE (Cirque Arlette Gruss)
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-16T20:00:00,gael-pilote-de-lillusion-228747,GAEL PILOTE DE L'ILLUSION
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2025-01-16T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Gujan Mestras,le-miroir-a-gujan-mestras-69669,2025-01-16T20:45:00,jeremy-frerot-110447,JEREMY FREROT
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-01-17T00:00:00,puggy-44869,PUGGY
+Concert,Bordeaux,theatre-femina-1324,2025-01-17T20:00:00,fatigue-hakim-jemili-14313,FATIGUE (Hakim Jemili)
+Concert,Villenave d'Ornon,le-cube-a-villenave-dornon-26473,2025-01-17T20:30:00,yolo-13729,YOLO
+Concert,Gujan Mestras,le-miroir-a-gujan-mestras-69669,2025-01-17T20:45:00,jeremy-frerot-110447,JEREMY FREROT
+Concert,Canejan,centre-simone-signoret-a-canejan-8339,2025-01-18T00:00:00,jacky-terrasson-182,JACKY TERRASSON
+Concert,Bordeaux,chapiteau-a-bordeaux-51917,2025-01-18T14:00:00,la-tournee-anniversaire-cirque-arlette-gruss-235591,LA TOURNEE ANNIVERSAIRE (Cirque Arlette Gruss)
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-01-18T19:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-18T20:00:00,sch-144892,SCH
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-01-18T20:30:00,inconstance-constance-14315,INCONSTANCE (Constance)
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-01-18T20:30:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Creon,espace-culturel-les-arcades-a-creon-56989,2025-01-20T20:00:00,symmetric-228277,SYMMETRIC
+Concert,Bordeaux,theatre-moliere---scene-daquitaine-2936,2025-01-21T20:00:00,massacre-a-la-princesse-interdit-aux-enfants-217359,MASSACRE A LA PRINCESSE INTERDIT AUX ENFANTS
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-01-21T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-01-21T20:30:00,david-jarre-234197,DAVID JARRE
+Concert,Bordeaux,chapiteau-a-bordeaux-51917,2025-01-22T14:30:00,la-tournee-anniversaire-cirque-arlette-gruss-235591,LA TOURNEE ANNIVERSAIRE (Cirque Arlette Gruss)
+Concert,Bordeaux,theatre-femina-1324,2025-01-22T20:00:00,the-rocket-man-a-tribute-to-sir-elton-john-169427,THE ROCKET MAN (A tribute to Sir Elton John)
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-01-22T20:30:00,etat-des-gueux-12030,ETAT DES GUEUX
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-01-22T20:30:00,imbert-imbert-38800,IMBERT IMBERT
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-01-22T20:30:00,hatik-180134,HATIK
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-23T20:00:00,clara-luciani-146797,CLARA LUCIANI
+Concert,Bordeaux,rock-school-barbey-3069,2025-01-23T20:00:00,danyl-181848,DANYL
+Concert,Bordeaux,chapiteau-a-bordeaux-51917,2025-01-24T19:30:00,la-tournee-anniversaire-cirque-arlette-gruss-235591,LA TOURNEE ANNIVERSAIRE (Cirque Arlette Gruss)
+Concert,Bordeaux,theatre-femina-1324,2025-01-24T20:30:00,le-monde-dapres-sophia-aram-13939,LE MONDE D'APRES (Sophia Aram)
+Concert,Ares,espace-bremontier-a-ares-64357,2025-01-24T20:30:00,lerotisme-de-vivre-catherine-ringer-14075,L'EROTISME DE VIVRE (Catherine Ringer)
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-01-24T20:30:00,dakhabrakha-97699,DAKHABRAKHA
+Concert,Pessac,mediatheque-jacques-ellul-a-pessac-18538,2025-01-25T11:30:00,emmanuelle-troy-121763,EMMANUELLE TROY
+Concert,Saint Loubes,la-coupole-de-saint-loubes-2397,2025-01-25T18:00:00,the-wackids-80498,THE WACKIDS
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-01-25T19:00:00,bertrand-chamayou-51044,BERTRAND CHAMAYOU
+Concert,Pauillac,cinema-leden-pauillac-65997,2025-01-25T19:30:00,mike-et-rike-199319,MIKE ET RIKE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-25T20:00:00,shen-yun-72725,SHEN YUN
+Concert,Bordeaux,theatre-victoire-a-bordeaux-36992,2025-01-25T20:00:00,wary-nichen-144007,WARY NICHEN
+Concert,Bordeaux,theatre-femina-1324,2025-01-25T20:30:00,dragon-kheiron-13509,DRAGON (Kheiron)
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-01-25T20:30:00,sharon-eyal-220641,SHARON EYAL
+Concert,Portets,espace-culturel-la-forge-a-portets-24957,2025-01-25T20:30:00,exister-definition-de-linfiniment-grand-a-linfiniment-con-13289,"EXISTER, DEFINITION. DE L’INFINIMENT GRAND A L’INFINIMENT CON"
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-01-25T20:30:00,authentique-ary-abittan-14473,AUTHENTIQUE (Ary Abittan)
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-26T14:00:00,shen-yun-72725,SHEN YUN
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-26T20:00:00,shen-yun-72725,SHEN YUN
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-27T15:00:00,shen-yun-72725,SHEN YUN
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-28T15:00:00,shen-yun-72725,SHEN YUN
+Concert,Bordeaux,theatre-moliere---scene-daquitaine-2936,2025-01-28T20:00:00,massacre-a-la-princesse-interdit-aux-enfants-217359,MASSACRE A LA PRINCESSE INTERDIT AUX ENFANTS
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-01-29T15:00:00,shen-yun-72725,SHEN YUN
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-01-29T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Bordeaux,theatre-femina-1324,2025-01-29T20:30:00,les-plus-belles-musiques-de-films-de-miyazaki-13639,LES PLUS BELLES MUSIQUES DE FILMS DE MIYAZAKI
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-01-29T20:30:00,frederic-couderc-16181,FREDERIC COUDERC
+Concert,Pessac,mac-3---space-campus-a-pessac-73705,2025-01-30T00:00:00,liv-del-estal-195243,LIV DEL ESTAL
+Concert,Bordeaux,theatre-femina-1324,2025-01-30T20:30:00,une-heure-a-tuer-14351,UNE HEURE A TUER
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-01-31T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Merignac,le-pin-galant-7410,2025-01-31T20:30:00,adorable-confessions-dun-ado-repenti-roman-doduik-12881,ADORABLE CONFESSIONS D'UN ADO REPENTI (Roman Doduik)
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-01-31T20:30:00,sarah-mccoy-129725,SARAH MCCOY
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-01-31T20:30:00,orchestre-national-de-france-46344,ORCHESTRE NATIONAL DE FRANCE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-01-31T20:30:00,tnt-acdc-tribute-139866,TNT (AC/DC Tribute)
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-01-31T20:30:00,ballet-de-lopera-national-de-bordeaux-188941,BALLET DE L’OPÉRA NATIONAL DE BORDEAUX
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-01-31T20:30:00,colonel-reyel-95592,COLONEL REYEL
+Concert,Bordeaux,galerie-tatry--cafe-theatre-des-chartrons-de-bordeaux-18820,2025-01-31T20:30:00,pierre-arditi-177824,PIERRE ARDITI
+Concert,Saint Loubes,la-coupole-de-saint-loubes-2397,2025-02-01T18:00:00,uba-smart-cie-222707,UBA (Smart Cie)
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-01T20:30:00,allez-la-bise-12995,"ALLEZ, LA BISE!"
+Concert,Merignac,le-pin-galant-7410,2025-02-01T20:30:00,jeremy-frerot-110447,JEREMY FREROT
+Concert,Villenave d'Ornon,le-cube-a-villenave-dornon-26473,2025-02-01T20:30:00,vincent-sangare-balse-69541,VINCENT SANGARE BALSE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-01T20:30:00,bagarre-97148,BAGARRE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-02T17:00:00,casse-noisette-le-ballet-et-lorchestre-de-lopera-national-de-russie-133100,CASSE NOISETTE (Le Ballet et l'Orchestre de l'Opera National de Russie)
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-02T17:00:00,casse-noisette-british-festival-ballet-234901,CASSE-NOISETTE (British Festival Ballet)
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-02-04T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Pessac,le-galet-a-pessac-18475,2025-02-04T20:00:00,courgettes-cie-paradoxe-230707,COURGETTES (Cie Paradoxe)
+Concert,Bordeaux,theatre-femina-1324,2025-02-04T20:30:00,thibault-cauvin-59773,THIBAULT CAUVIN
+Concert,Bordeaux,iboat-a-bordeaux-39764,2025-02-05T19:30:00,denuit-175756,DENUIT
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-05T20:00:00,justice-11587,JUSTICE
+Concert,Merignac,le-pin-galant-7410,2025-02-05T20:30:00,giselles-derouault--pietragalla-214527,GISELLE(S) (Derouault / Pietragalla)
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-02-05T20:30:00,horme-237089,HORME
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-06T00:00:00,baptiste-trotignon-2040,BAPTISTE TROTIGNON
+Concert,Bordeaux,iboat-a-bordeaux-39764,2025-02-06T00:00:00,arma-jackson-178447,ARMA JACKSON
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-02-06T20:00:00,khatia-buniatishvili-69597,KHATIA BUNIATISHVILI
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-02-07T19:30:00,jean-claude-casadesus-155061,JEAN CLAUDE CASADESUS
+Concert,Saint Denis de Pile,laccordeur-41207,2025-02-07T20:00:00,okali-208225,OKALI
+Concert,Bordeaux,theatre-femina-1324,2025-02-07T20:30:00,tout-est-dans-la-voix-13573,TOUT EST DANS LA VOIX
+Concert,Merignac,le-pin-galant-7410,2025-02-07T20:30:00,par-amour-14327,PAR AMOUR
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-07T20:30:00,500-voix-pour-les-plus-belles-chansons-francaises-229287,500 VOIX POUR LES PLUS BELLES CHANSONS FRANCAISES
+Concert,La Teste de Buch,theatre-pierre-cravey--a-la-teste-de-buch-49768,2025-02-07T20:30:00,adeline-toniutti-205419,ADELINE TONIUTTI
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-02-07T20:30:00,exister-definition-de-linfiniment-grand-a-linfiniment-con-13289,"EXISTER, DEFINITION. DE L’INFINIMENT GRAND A L’INFINIMENT CON"
+Concert,Saint Loubes,la-coupole-de-saint-loubes-2397,2025-02-07T20:30:00,aliocha-schneider-153126,ALIOCHA SCHNEIDER
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-07T20:30:00,15000-voix-pour-les-plus-belles-chansons-francaises-239747,15000 VOIX POUR LES PLUS BELLES CHANSONS FRANCAISES
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-07T20:30:00,irene-dresel-156382,IRENE DRESEL
+Concert,Bordeaux,rock-school-barbey-3069,2025-02-07T20:30:00,zelie-192021,ZELIE
+Concert,Saint Denis de Pile,laccordeur-41207,2025-02-08T00:00:00,les-wriggles-874,LES WRIGGLES
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-08T20:30:00,adeline-toniutti-205419,ADELINE TONIUTTI
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-02-08T20:30:00,le-comte-de-bouderbala-3-13307,LE COMTE DE BOUDERBALA 3
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-02-08T20:30:00,olivia-ruiz-27252,OLIVIA RUIZ
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-08T20:30:00,fatoumata-diawara-42011,FATOUMATA DIAWARA
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-08T20:30:00,zinee-189109,ZINEE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-09T16:00:00,bolero---hommage-a-maurice-ravel-148893,BOLERO - HOMMAGE A MAURICE RAVEL
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-02-09T17:00:00,les-musiciens-du-louvre-46029,LES MUSICIENS DU LOUVRE
+Concert,Bordeaux,theatre-femina-1324,2025-02-09T18:00:00,camille-181648,CAMILLE & JULIE BERTHOLLET
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-09T20:00:00,dewolff-81347,DEWOLFF
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-02-10T20:00:00,patricia-petibon-60803,PATRICIA PETIBON
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-11T20:00:00,gims-83199,GIMS
+Concert,Bordeaux,theatre-femina-1324,2025-02-11T20:30:00,fille-a-papa-13799,FILLE A PAPA
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-12T00:00:00,hugh-coltman-39384,HUGH COLTMAN
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-12T00:00:00,hugh-coltman-39384,HUGH COLTMAN
+Concert,Bordeaux,iboat-a-bordeaux-39764,2025-02-12T19:30:00,xeno-and-oaklander-202095,XENO AND OAKLANDER
+Concert,Bordeaux,theatre-femina-1324,2025-02-12T20:30:00,femme-de-vie-13139,FEMME DE VIE
+Concert,Bordeaux,cafe-theatre-des-beaux-arts-a-bordeaux-22142,2025-02-12T20:30:00,une-vie-sur-mesure-114417,UNE VIE SUR MESURE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-12T20:30:00,lescop-103637,LESCOP
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-13T20:00:00,sdm-190245,SDM
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-02-13T20:00:00,gautier-capucon-63070,GAUTIER CAPUCON
+Concert,Bordeaux,theatre-femina-1324,2025-02-13T20:30:00,le-sens-de-la-vie-alexis-le-rossignol-14089,LE SENS DE LA VIE (Alexis Le Rossignol)
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-13T20:30:00,theodort-234647,THEODORT
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-13T20:30:00,bernard-werber---voyage-interieur-182444,BERNARD WERBER - VOYAGE INTÉRIEUR
+Concert,Bordeaux,rock-school-barbey-3069,2025-02-13T20:30:00,jyeuhair-175923,JYEUHAIR
+Concert,Bordeaux,theatre-femina-1324,2025-02-14T00:00:00,les-hommes-viennent-de-mars-les-femmes-de-venus-13635,LES HOMMES VIENNENT DE MARS LES FEMMES DE VENUS
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-02-14T19:00:00,hansel-et-gretel-collectif-ubique-152171,HANSEL ET GRETEL (Collectif Ubique)
+Concert,Saint Jean d'Illac,espace-querandeau-a-saint-jean-dillac-68981,2025-02-14T19:30:00,okali-208225,OKALI
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-14T20:00:00,la-troupe-du-jamel-comedy-club-39710,LA TROUPE DU JAMEL COMEDY CLUB
+Concert,Bordeaux,rock-school-barbey-3069,2025-02-14T20:00:00,davodka-145167,DAVODKA
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-14T20:00:00,nubya-garcia-167320,NUBYA GARCIA
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-02-14T20:30:00,andre-manoukian-57088,ANDRE MANOUKIAN
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-14T20:30:00,soviet-suprem-127922,SOVIET SUPREM
+Concert,Pessac,mediatheque-jacques-ellul-a-pessac-18538,2025-02-15T11:30:00,nathan-mameri-181018,NATHAN MAMERI
+Concert,Bordeaux,theatre-femina-1324,2025-02-15T15:00:00,aldebert-presente-helldebert-enfantillages-666-15309,ALDEBERT PRESENTE HELLDEBERT ENFANTILLAGES 666
+Concert,Merignac,le-pin-galant-7410,2025-02-15T17:00:00,murmuration---sadeck-berrabah-214305,MURMURATION - SADECK BERRABAH
+Concert,Bordeaux,theatre-femina-1324,2025-02-15T19:00:00,aldebert-presente-helldebert-enfantillages-666-15309,ALDEBERT PRESENTE HELLDEBERT ENFANTILLAGES 666
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-02-15T19:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-02-15T20:00:00,pascal-obispo-1429,PASCAL OBISPO
+Concert,Bordeaux,theatre-femina-1324,2025-02-16T11:00:00,aldebert-presente-helldebert-enfantillages-666-15309,ALDEBERT PRESENTE HELLDEBERT ENFANTILLAGES 666
+Concert,Bordeaux,theatre-femina-1324,2025-02-16T15:00:00,aldebert-presente-helldebert-enfantillages-666-15309,ALDEBERT PRESENTE HELLDEBERT ENFANTILLAGES 666
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-16T18:00:00,origami-13813,ORIGAMI
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-16T18:00:00,lisa-ekdahl-8809,LISA EKDAHL
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-02-16T18:00:00,pascal-obispo-1429,PASCAL OBISPO
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-18T20:00:00,era-174145,ERA
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-02-18T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Merignac,le-pin-galant-7410,2025-02-18T20:30:00,clement-viktorovitch-228399,CLEMENT VIKTOROVITCH
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-18T20:30:00,the-libertines-25217,THE LIBERTINES
+Concert,Bordeaux,theatre-femina-1324,2025-02-19T20:30:00,boon-va-mieux-faire--14417,BOON VA MIEUX FAIRE !
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-02-19T20:30:00,meryem-benoua-194103,MERYEM BENOUA
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-19T20:30:00,koba-lad-170901,KOBA LAD
+Concert,Bordeaux,cafe-theatre-des-beaux-arts-a-bordeaux-22142,2025-02-19T20:30:00,une-vie-sur-mesure-114417,UNE VIE SUR MESURE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-19T20:30:00,kalash-29288,KALASH
+Concert,Creon,espace-culturel-les-arcades-a-creon-56989,2025-02-20T19:00:00,baptiste-herbin-67025,BAPTISTE HERBIN
+Concert,Le Barp,le-bateau-lyre-28908,2025-02-20T19:30:00,okali-208225,OKALI
+Concert,Bordeaux,theatre-victoire-a-bordeaux-36992,2025-02-20T20:00:00,souvenirs-de-saltimbanques-13553,SOUVENIRS DE SALTIMBANQUES
+Concert,Bordeaux,theatre-femina-1324,2025-02-20T20:30:00,boon-va-mieux-faire--14417,BOON VA MIEUX FAIRE !
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-20T20:30:00,airbourne-55833,AIRBOURNE
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-02-20T20:30:00,ana-carla-maza-118708,ANA CARLA MAZA
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-02-20T20:30:00,dany-brillant-2848,DANY BRILLANT
+Concert,Saint Medard En Jalles,salle-georges-brassens-a-saint-medard-en-jalles-56384,2025-02-21T19:00:00,okali-208225,OKALI
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-02-21T20:00:00,the-wackids-80498,THE WACKIDS
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-21T20:00:00,jean-louis-aubert-5988,JEAN LOUIS AUBERT
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-21T20:30:00,danakil-26547,DANAKIL
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-22T20:00:00,gazo-186379,GAZO
+Concert,Bordeaux,theatre-femina-1324,2025-02-22T20:30:00,ca-patine-a-tokyo-243447,CA PATINE A TOKYO
+Concert,Bordeaux,cafe-theatre-des-beaux-arts-a-bordeaux-22142,2025-02-22T20:30:00,une-vie-sur-mesure-114417,UNE VIE SUR MESURE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-22T20:30:00,bachar-mar-khalife-85412,BACHAR MAR KHALIFE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-25T20:30:00,landmvrks-142410,LANDMVRKS
+Concert,Bordeaux,iboat-a-bordeaux-39764,2025-02-26T19:30:00,actors-198297,ACTORS
+Concert,Bordeaux,iboat-a-bordeaux-39764,2025-02-27T19:00:00,napalm-death-14844,NAPALM DEATH
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-02-27T20:30:00,kompromat-175468,KOMPROMAT
+Concert,Gujan Mestras,le-miroir-a-gujan-mestras-69669,2025-02-28T00:00:00,emily-loizeau-27512,EMILY LOIZEAU
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-02-28T20:00:00,celtic-legends-26872,CELTIC LEGENDS
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-02-28T20:00:00,joe-hisaishi-98442,JOE HISAISHI
+Concert,Merignac,le-pin-galant-7410,2025-02-28T20:30:00,roberto-alagna-49098,ROBERTO ALAGNA
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-01T20:30:00,artus-92019,ARTUS
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-02T19:00:00,calema-174243,CALEMA
+Concert,Bordeaux,rock-school-barbey-3069,2025-03-04T00:00:00,nada-surf-4080,NADA SURF
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-04T20:00:00,indochine-4320,INDOCHINE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-05T20:00:00,indochine-4320,INDOCHINE
+Concert,Bordeaux,theatre-femina-1324,2025-03-05T20:30:00,stories-runstopfallrise-rb-dance-company-182054,STORIES RUN.STOP.FALL.RISE (Rb Dance Company)
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-05T20:30:00,jokair-156478,JOK'AIR
+Concert,Bordeaux,theatre-femina-1324,2025-03-06T20:30:00,stories-runstopfallrise-rb-dance-company-182054,STORIES RUN.STOP.FALL.RISE (Rb Dance Company)
+Concert,Bordeaux,rock-school-barbey-3069,2025-03-06T20:30:00,maxence-maxenss-158063,MAXENCE (MAXENSS)
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-07T20:00:00,indochine-4320,INDOCHINE
+Concert,Bordeaux,theatre-femina-1324,2025-03-07T20:00:00,alain-souchon-157482,ALAIN SOUCHON
+Concert,Bordeaux,rock-school-barbey-3069,2025-03-07T20:30:00,yoa-189557,YOA
+Concert,Bordeaux,rock-school-barbey-3069,2025-03-08T00:00:00,last-train-133766,LAST TRAIN
+Concert,Bordeaux,rock-school-barbey-3069,2025-03-08T00:00:00,last-train-133766,LAST TRAIN
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-03-08T14:30:00,sur-la-route-enchantee-13461,SUR LA ROUTE ENCHANTEE
+Concert,Bordeaux,theatre-femina-1324,2025-03-08T16:00:00,the-magical-music-of-harry-potter-live-in-concert-227119,THE MAGICAL MUSIC OF HARRY POTTER LIVE IN CONCERT
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-03-08T17:30:00,sur-la-route-enchantee-13461,SUR LA ROUTE ENCHANTEE
+Concert,Bordeaux,theatre-femina-1324,2025-03-08T20:00:00,the-music-of-hans-zimmer-181635,THE MUSIC OF HANS ZIMMER & OTHERS
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-08T20:00:00,indochine-4320,INDOCHINE
+Concert,Creon,centre-culturel-de-creon-91,2025-03-08T20:30:00,babx-18726,BABX
+Concert,Bordeaux,blonde-venus-a-bordeaux-64359,2025-03-08T20:30:00,lisa-pariente-189989,LISA PARIENTE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-08T20:30:00,babx-18726,BABX
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-11T20:00:00,irish-celtic--le-chemin-des-legendes-12293,IRISH CELTIC – LE CHEMIN DES LEGENDES
+Concert,Merignac,le-pin-galant-7410,2025-03-11T20:30:00,ballets-trockadero-de-monte-carlo-105921,BALLETS TROCKADERO DE MONTE CARLO
+Concert,Merignac,le-pin-galant-7410,2025-03-12T20:00:00,beth-hart-85436,BETH HART
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-12T20:00:00,montreux-comedy---la-tournee-234059,MONTREUX COMEDY - LA TOURNEE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-12T20:30:00,rosa-bursztein-173857,ROSA BURSZTEIN
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-12T20:30:00,polo-146852,POLO & PAN
+Concert,Bordeaux,rock-school-barbey-3069,2025-03-13T00:00:00,johnny-mafia-131423,JOHNNY MAFIA
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-13T20:00:00,the-australian-pink-floyd-show-47537,THE AUSTRALIAN PINK FLOYD SHOW
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-03-13T20:00:00,brad-mehldau-2809,BRAD MEHLDAU
+Concert,Bordeaux,iboat-a-bordeaux-39764,2025-03-13T20:00:00,colt-206141,COLT
+Concert,Bordeaux,theatre-femina-1324,2025-03-13T20:00:00,louis-chedid-6038,LOUIS CHEDID
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-03-13T20:30:00,leila-ka-206881,LEILA KA
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-03-13T20:30:00,tchavolo-schmitt-19479,TCHAVOLO SCHMITT
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-13T20:30:00,piers-faccini-29145,PIERS FACCINI
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-14T20:00:00,lui-meme-14329,LUI-MEME
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-03-14T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Merignac,le-pin-galant-7410,2025-03-15T17:00:00,chapitre-ii-14469,CHAPITRE II
+Concert,Bordeaux,blonde-venus-a-bordeaux-64359,2025-03-15T19:30:00,juniore-128305,JUNIORE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-15T20:00:00,rootsriders-bob-marley-tribute-147957,"ROOTSRIDERS, BOB MARLEY TRIBUTE"
+Concert,Bordeaux,theatre-la-pergola-a-bordeaux-30565,2025-03-15T20:00:00,les-amazones-242863,LES AMAZONES
+Concert,Bordeaux,rock-school-barbey-3069,2025-03-15T20:30:00,victor-solf-181139,VICTOR SOLF
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-15T20:30:00,solann-225065,SOLANN
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-03-15T20:30:00,dani-lary-71914,DANI LARY
+Concert,Merignac,le-pin-galant-7410,2025-03-16T16:00:00,les-souliers-rouges-179082,LES SOULIERS ROUGES
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-03-16T17:00:00,sherlock-holmes---laventure-musicale-203019,SHERLOCK HOLMES - L'AVENTURE MUSICALE
+Concert,Biganos,centre-culturel-lucien-mounaix-de-biganos-8226,2025-03-16T17:00:00,laurent-baffie-se-pose-des-questions-12180,LAURENT BAFFIE SE POSE DES QUESTIONS
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-03-17T20:00:00,evgeny-kissin-61981,EVGENY KISSIN
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-03-17T21:00:00,la-vie-de-ta-mere-13763,LA VIE DE TA MERE
+Concert,Merignac,le-pin-galant-7410,2025-03-18T20:30:00,le-grand-bal-cie-dyptik-218969,LE GRAND BAL (Cie Dyptik)
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-03-19T20:30:00,pandore-166706,PANDORE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-20T19:30:00,andre-rieu-28344,ANDRE RIEU
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-03-20T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Bordeaux,rock-school-barbey-3069,2025-03-20T20:00:00,marion-roch-146668,MARION ROCH
+Concert,Bordeaux,rock-school-barbey-3069,2025-03-21T00:00:00,felhur-x-andro-224027,FELHUR X ANDRO
+Concert,Sainte Foy la Grande,salle-des-fetes-a-sainte-foy-la-grande-35465,2025-03-21T19:30:00,okali-208225,OKALI
+Concert,Saint Loubes,la-coupole-de-saint-loubes-2397,2025-03-21T19:30:00,tolkia-242139,TOLKIA
+Concert,Bordeaux,theatre-la-pergola-a-bordeaux-30565,2025-03-21T20:00:00,les-amazones-242863,LES AMAZONES
+Concert,Bordeaux,rock-school-barbey-3069,2025-03-21T20:30:00,rouquine-184021,ROUQUINE
+Concert,Bordeaux,iboat-a-bordeaux-39764,2025-03-21T20:30:00,the-last-internationale-133088,THE LAST INTERNATIONALE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-22T00:00:00,zoufris-maracas-93846,ZOUFRIS MARACAS
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-22T00:00:00,oracle-sisters-187145,ORACLE SISTERS
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-22T00:00:00,luiza-212115,LUIZA
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-03-22T19:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Saucats,centre-culturel-la-ruche-a-saucats-48592,2025-03-22T19:30:00,okali-208225,OKALI
+Concert,Bordeaux,theatre-la-pergola-a-bordeaux-30565,2025-03-23T15:00:00,les-amazones-242863,LES AMAZONES
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-03-25T19:00:00,the-wackids-80498,THE WACKIDS
+Concert,Bordeaux,theatre-femina-1324,2025-03-26T20:30:00,la-promesse-dun-soir-alison-wheeler-14311,LA PROMESSE D'UN SOIR (Alison Wheeler)
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-26T20:30:00,jacques-morelenbaum-26499,JACQUES MORELENBAUM
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-26T20:30:00,jokair-156478,JOK'AIR
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-03-26T20:30:00,cash-savage-and-the-last-drinks-178098,CASH SAVAGE AND THE LAST DRINKS
+Concert,Bordeaux,rock-school-barbey-3069,2025-03-26T20:30:00,cash-savage-and-the-last-drinks-178098,CASH SAVAGE AND THE LAST DRINKS
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-27T20:00:00,le-lac-des-cygnes-international-festival-ballet-200387,LE LAC DES CYGNES (International Festival Ballet & Festival Orchestra)
+Concert,Bordeaux,iboat-a-bordeaux-39764,2025-03-27T20:30:00,piche-225647,PICHE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-28T00:00:00,kamasi-washington-140993,KAMASI WASHINGTON
+Concert,Mios,salle-des-fetes-de-mios-40670,2025-03-28T19:30:00,okali-208225,OKALI
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-03-28T20:00:00,la-famille-mamma-mia--zize-548,LA FAMILLE MAMMA MIA ! (Zize)
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-28T20:00:00,la-haine-226465,LA HAINE
+Concert,Bordeaux,theatre-la-pergola-a-bordeaux-30565,2025-03-28T20:00:00,les-amazones-242863,LES AMAZONES
+Concert,Bordeaux,theatre-femina-1324,2025-03-28T20:30:00,parades-13847,PARADES
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-03-28T20:30:00,normalement-14479,NORMALEMENT
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-03-28T20:30:00,dafne-kritharas-134369,DAFNE KRITHARAS
+Concert,Begles,cinema-le-festival-a-begles-48073,2025-03-29T16:30:00,doggo-ellie-james-226079,DOGGO (Ellie James)
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-03-29T20:00:00,la-famille-mamma-mia--zize-548,LA FAMILLE MAMMA MIA ! (Zize)
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-03-29T20:00:00,tigana-santana-101202,TIGANA SANTANA
+Concert,Noaillac,salle-des-fetes-de-noaillac-60066,2025-03-29T20:00:00,okali-208225,OKALI
+Concert,Merignac,le-pin-galant-7410,2025-03-29T20:30:00,lodyssee-de-la-voix-12538,L'ODYSSEE DE LA VOIX
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-03-29T20:30:00,la-haine-226465,LA HAINE
+Concert,Saint Loubes,la-coupole-de-saint-loubes-2397,2025-03-29T20:30:00,nora-hamzawi-62000,NORA HAMZAWI
+Concert,Eysines,salle-du-vigean-a-eysines-1113,2025-03-30T00:00:00,mon-frere-cest-dieu-sur-terre-13735,MON FRERE C'EST DIEU SUR TERRE
+Concert,Bordeaux,theatre-la-pergola-a-bordeaux-30565,2025-03-30T15:00:00,les-amazones-242863,LES AMAZONES
+Concert,Bordeaux,theatre-femina-1324,2025-03-30T18:30:00,episode-6-sellig-13953,EPISODE 6 (Sellig)
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-01T20:00:00,la-fouine-34055,LA FOUINE
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-04-01T20:00:00,michel-dalberto-53402,MICHEL DALBERTO
+Concert,Libourne,theatre-liburnia-a-libourne-7750,2025-04-02T00:00:00,emily-loizeau-27512,EMILY LOIZEAU
+Concert,Bordeaux,theatre-femina-1324,2025-04-02T19:30:00,vesselin-stanev-49769,VESSELIN STANEV
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-02T20:00:00,david-hallyday---requiem-pour-un-fou-11046,DAVID HALLYDAY - REQUIEM POUR UN FOU
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-04-02T20:30:00,keziah-jones-2002,KEZIAH JONES
+Concert,Bordeaux,rock-school-barbey-3069,2025-04-02T20:30:00,ade-197635,ADE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-04-03T00:00:00,the-liminanas-94543,THE LIMINANAS
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-03T20:00:00,une-heure-a-tuer-14351,UNE HEURE A TUER
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-04-03T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Talence,linconnue-a-talence-73805,2025-04-03T20:00:00,okali-208225,OKALI
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-04-03T20:00:00,ours-charles-souchon-41847,OURS (Charles Souchon)
+Concert,Bordeaux,rock-school-barbey-3069,2025-04-03T20:30:00,deportivo-12795,DEPORTIVO
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-04-03T20:30:00,trop-gentil-nicolas-lacroix-14087,TROP GENTIL (Nicolas Lacroix)
+Concert,Villenave d'Ornon,le-cube-a-villenave-dornon-26473,2025-04-04T20:30:00,les-wriggles-874,LES WRIGGLES
+Concert,Ares,espace-bremontier-a-ares-64357,2025-04-04T20:30:00,emily-loizeau-27512,EMILY LOIZEAU
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-04-05T19:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,theatre-femina-1324,2025-04-05T20:30:00,givre-14361,GIVRE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-05T20:30:00,saez-11695,SAEZ
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-04-05T20:30:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-04-05T20:30:00,celui-qui-chante-168476,CELUI QUI CHANTE
+Concert,Bordeaux,theatre-femina-1324,2025-04-06T17:00:00,jeanne-mas-1532,JEANNE MAS
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-08T20:00:00,pub-royal-227823,PUB ROYAL
+Concert,La Teste de Buch,theatre-pierre-cravey--a-la-teste-de-buch-49768,2025-04-08T20:30:00,patrice-laffont-92753,PATRICE LAFFONT
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-04-08T20:30:00,grupo-compay-segundo-82396,GRUPO COMPAY SEGUNDO
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-09T20:00:00,le-syndrome-du-papillon-12777,LE SYNDROME DU PAPILLON
+Concert,Bordeaux,theatre-femina-1324,2025-04-09T20:30:00,the-simon-173964,THE SIMON & GARFUNKEL STORY
+Concert,Bordeaux,iboat-a-bordeaux-39764,2025-04-09T20:30:00,christophe-mali-30420,CHRISTOPHE MALI
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-04-09T20:30:00,miel-de-montagne-169644,MIEL DE MONTAGNE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-10T20:00:00,la-tournee-du-trio-14335,LA TOURNEE DU TRIO
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-04-10T20:00:00,cocu-13219,COCU
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-04-10T20:00:00,elodie-da-silva-217065,ELODIE DA SILVA
+Concert,Merignac,le-pin-galant-7410,2025-04-10T20:30:00,une-heure-a-tuer-14351,UNE HEURE A TUER
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-11T20:00:00,13hz-14255,13HZ
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-04-11T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,theatre-femina-1324,2025-04-11T20:30:00,le-gang-des-chieuses-228219,LE GANG DES CHIEUSES
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-04-11T20:30:00,ana-carla-maza-118708,ANA CARLA MAZA
+Concert,Bordeaux,rock-school-barbey-3069,2025-04-11T20:30:00,theodora-138752,THEODORA
+Concert,Pessac,mediatheque-jacques-ellul-a-pessac-18538,2025-04-12T11:30:00,cadijo-32258,CADIJO
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-04-12T18:00:00,romuald-maufras-113747,ROMUALD MAUFRAS
+Concert,Sauveterre de Guyenne,salle-simone-veil-69561,2025-04-12T19:30:00,mister-tchang-31949,MISTER TCHANG
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-12T20:00:00,bonhomme-jarry-13795,BONHOMME (Jarry)
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-04-12T20:00:00,jose-cruz-72785,JOSE CRUZ
+Concert,Bordeaux,salle-des-fetes-du-grand-parc-a-bordeaux-27751,2025-04-12T20:00:00,chanson-plus-bifluoree-2869,CHANSON PLUS BIFLUOREE
+Concert,Merignac,le-pin-galant-7410,2025-04-12T20:30:00,thomas-dutronc-18500,THOMAS DUTRONC
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-04-12T20:30:00,quatuor-modigliani-47986,QUATUOR MODIGLIANI
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-04-12T20:30:00,kamel-le-magicien-95056,KAMEL LE MAGICIEN
+Concert,Bordeaux,theatre-femina-1324,2025-04-13T18:00:00,tony-ann-223417,TONY ANN
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-13T18:00:00,star-academy-2024-23201,STAR ACADEMY 2024
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-14T20:00:00,lenny-kravitz-16471,LENNY KRAVITZ
+Concert,Bordeaux,iboat-a-bordeaux-39764,2025-04-15T19:30:00,rue-oberkampf-224349,RUE OBERKAMPF
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-15T20:00:00,philippe-katerine-84,PHILIPPE KATERINE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-04-15T20:30:00,mc-solaar-5267,MC SOLAAR
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-04-15T20:30:00,lise-berthaud-48847,LISE BERTHAUD
+Concert,Bordeaux,rock-school-barbey-3069,2025-04-15T20:30:00,amk-224029,AMK
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-16T20:00:00,pierre-garnier-232189,PIERRE GARNIER
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-04-16T20:30:00,chloe-jiyeong-mun-239341,CHLOE JIYEONG MUN
+Concert,Biganos,centre-culturel-lucien-mounaix-de-biganos-8226,2025-04-16T20:30:00,handicapee-mechante-13579,HANDICAPEE MECHANTE
+Concert,Creon,centre-culturel-de-creon-91,2025-04-17T19:00:00,yoann-loustalot-13184,YOANN LOUSTALOT
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-17T20:00:00,on-est-ensemble-14405,ON EST ENSEMBLE
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-04-17T20:00:00,martha-argerich-50272,MARTHA ARGERICH
+Concert,Bordeaux,theatre-femina-1324,2025-04-17T20:30:00,guihome-vous-detend-142854,GUIHOME VOUS DETEND
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-04-17T20:30:00,ycare-61388,YCARE
+Concert,Biganos,centre-culturel-lucien-mounaix-de-biganos-8226,2025-04-17T20:30:00,dedo-136600,DEDO
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-18T20:00:00,tiakola-190825,TIAKOLA
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-04-18T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Merignac,le-pin-galant-7410,2025-04-18T20:30:00,lexperience-de-la-vie-13835,L'EXPERIENCE DE LA VIE
+Concert,La Teste de Buch,theatre-pierre-cravey--a-la-teste-de-buch-49768,2025-04-18T20:30:00,liane-foly-5435,LIANE FOLY
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-04-18T20:30:00,seong-jin-cho-140437,SEONG JIN CHO
+Concert,Biganos,centre-culturel-lucien-mounaix-de-biganos-8226,2025-04-18T20:30:00,frederic-fromet-26934,FREDERIC FROMET
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-04-18T20:30:00,anouar-brahem-14412,ANOUAR BRAHEM
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-04-19T20:00:00,stefano-di-battista-1495,STEFANO DI BATTISTA
+Concert,Arcachon,theatre-olympia-darcachon-7976,2025-04-21T20:30:00,tango-nuevo-31935,TANGO NUEVO
+Concert,Bordeaux,theatre-femina-1324,2025-04-23T20:00:00,les-comedies-musicales---la-tournee-officielle-215335,LES COMEDIES MUSICALES - LA TOURNEE OFFICIELLE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-04-24T20:00:00,sylvain-duthu-164896,SYLVAIN DUTHU
+Concert,Bordeaux,rock-school-barbey-3069,2025-04-24T20:30:00,warhaus-126150,WARHAUS
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-04-24T20:30:00,mezerg-170394,MEZERG
+Concert,Bordeaux,theatre-femina-1324,2025-04-25T20:00:00,dans-les-yeux-daudrey-francois-mauduit-216001,DANS LES YEUX D'AUDREY (François Mauduit)
+Concert,La Teste de Buch,theatre-pierre-cravey--a-la-teste-de-buch-49768,2025-04-25T20:30:00,les-caprices-de-marianne-143842,LES CAPRICES DE MARIANNE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-04-26T15:00:00,moliere-lopera-urbain-204967,MOLIERE L’OPERA URBAIN
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-04-26T20:00:00,pene-pati-198167,PENE PATI
+Concert,Bordeaux,cafe-theatre-des-beaux-arts-a-bordeaux-22142,2025-04-30T20:30:00,une-vie-sur-mesure-114417,UNE VIE SUR MESURE
+Concert,Bordeaux,theatre-des-salinieres-a-bordeaux-23597,2025-05-02T20:30:00,jai-envie-de-toi-12845,J'AI ENVIE DE TOI
+Concert,Bordeaux,theatre-femina-1324,2025-05-04T16:00:00,fernando-daniel-226993,FERNANDO DANIEL
+Concert,Villenave d'Ornon,maison-des-arts-vivants-a-villenave-dornon-18633,2025-05-06T19:00:00,nacar-193733,NACAR
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-05-06T20:00:00,pixies-28301,PIXIES
+Concert,Pessac,le-galet-a-pessac-18475,2025-05-06T20:00:00,macera-cie-pyramid-234493,MACERA (Cie Pyramid)
+Concert,Merignac,le-pin-galant-7410,2025-05-07T20:00:00,jean-paul-rouve-242177,JEAN PAUL ROUVE
+Concert,Bordeaux,cafe-theatre-des-beaux-arts-a-bordeaux-22142,2025-05-07T20:30:00,une-vie-sur-mesure-114417,UNE VIE SUR MESURE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-05-07T20:30:00,chassol-106890,CHASSOL
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-05-09T20:00:00,louane-138473,LOUANE
+Concert,Bordeaux,theatre-la-pergola-a-bordeaux-30565,2025-05-09T20:00:00,les-amazones-242863,LES AMAZONES
+Concert,Bordeaux,theatre-des-salinieres-a-bordeaux-23597,2025-05-09T20:30:00,jai-envie-de-toi-12845,J'AI ENVIE DE TOI
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-05-10T15:00:00,music-is-coming-12803,MUSIC IS COMING
+Concert,Begles,espace-jean-vautrin-a-begles-57585,2025-05-10T18:00:00,le-comte-de-bouderbala-sami-ameziane-61853,LE COMTE DE BOUDERBALA (Sami Ameziane)
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-05-10T19:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-05-10T20:00:00,electro-symphony-234899,ELECTRO SYMPHONY
+Concert,Bordeaux,theatre-la-pergola-a-bordeaux-30565,2025-05-11T15:00:00,les-amazones-242863,LES AMAZONES
+Concert,Bordeaux,rock-school-barbey-3069,2025-05-12T20:30:00,skegss-173055,SKEGSS
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-05-14T20:00:00,michel-polnareff-36218,MICHEL POLNAREFF
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-05-15T20:00:00,soolking-171695,SOOLKING
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-05-15T20:00:00,ensemble-pygmalion-54320,ENSEMBLE PYGMALION
+Concert,Bordeaux,theatre-femina-1324,2025-05-15T20:30:00,solide-13751,SOLIDE
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-05-15T20:30:00,tombe-du-ciel-6569,TOMBE DU CIEL
+Concert,Bordeaux,theatre-des-salinieres-a-bordeaux-23597,2025-05-15T20:30:00,jai-envie-de-toi-12845,J'AI ENVIE DE TOI
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-05-15T20:30:00,drama-queen-12338,DRAMA QUEEN
+Concert,Bordeaux,theatre-moliere---scene-daquitaine-2936,2025-05-15T20:30:00,lili-cros-186795,LILI CROS & THIERRY CHAZELLE
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-05-16T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,theatre-la-pergola-a-bordeaux-30565,2025-05-16T20:00:00,les-amazones-242863,LES AMAZONES
+Concert,Bordeaux,theatre-femina-1324,2025-05-16T20:30:00,solide-13751,SOLIDE
+Concert,Merignac,le-pin-galant-7410,2025-05-16T20:30:00,les-franglaises-88420,LES FRANGLAISES
+Concert,La Teste de Buch,theatre-pierre-cravey--a-la-teste-de-buch-49768,2025-05-16T20:30:00,jean-jacques-milteau-348,JEAN JACQUES MILTEAU
+Concert,Biganos,centre-culturel-lucien-mounaix-de-biganos-8226,2025-05-16T20:30:00,nacar-193733,NACAR
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-05-16T21:00:00,calme-14383,CALME
+Concert,Bordeaux,salle-des-fetes-du-grand-parc-a-bordeaux-27751,2025-05-17T19:30:00,francois-and-the-atlas-mountains-77826,FRANCOIS AND THE ATLAS MOUNTAINS
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-05-17T20:00:00,quatuor-ebene-51152,QUATUOR EBENE
+Concert,Bordeaux,theatre-femina-1324,2025-05-17T20:30:00,jenifer-24441,JENIFER
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-05-17T20:30:00,retour-vers-mon-futur-239265,RETOUR VERS MON FUTUR
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-05-17T20:30:00,les-annees-twist-239397,LES ANNEES TWIST
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-05-17T20:30:00,pierre-lapointe-26145,PIERRE LAPOINTE
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-05-17T21:00:00,senk-13695,SENK
+Concert,Leognan,halles-de-gascogne-a-leognan-8069,2025-05-17T21:00:00,nadau-19624,NADAU
+Concert,Bordeaux,theatre-la-pergola-a-bordeaux-30565,2025-05-18T15:00:00,les-amazones-242863,LES AMAZONES
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-05-18T16:00:00,le-lac-des-cygnes-franceconcert-2025-211865,LE LAC DES CYGNES (Franceconcert 2025)
+Concert,Bordeaux,theatre-des-salinieres-a-bordeaux-23597,2025-05-18T18:00:00,jai-envie-de-toi-12845,J'AI ENVIE DE TOI
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-05-19T20:30:00,helena-242807,HELENA
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-05-21T20:00:00,orchestre-national-bordeaux-aquitaine-onba-55282,ORCHESTRE NATIONAL BORDEAUX AQUITAINE (ONBA)
+Concert,Merignac,le-pin-galant-7410,2025-05-21T20:30:00,un-monde-hostile-14461,UN MONDE HOSTILE
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-05-21T20:30:00,youn-sun-nah-11313,YOUN SUN NAH
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-05-22T20:00:00,la-tournee-du-trio-14335,LA TOURNEE DU TRIO
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-05-22T20:00:00,quatuor-modigliani-47986,QUATUOR MODIGLIANI
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-05-22T20:30:00,monsieur-henri-219811,MONSIEUR HENRI
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-05-23T20:00:00,julien-dore-45638,JULIEN DORE
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-05-23T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,theatre-femina-1324,2025-05-23T20:30:00,olivier-de-benoist-50136,OLIVIER DE BENOIST
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-05-23T20:30:00,tareek-170207,TAREEK
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-05-23T21:00:00,guillaume-meurice-67844,GUILLAUME MEURICE
+Concert,Monsegur,jardin-du-presbytere-a-monsegur-76815,2025-05-24T19:30:00,soledad-y-la-tropical-242125,SOLEDAD Y LA TROPICAL
+Concert,Bordeaux,theatre-femina-1324,2025-05-24T20:30:00,inconstance-constance-14315,INCONSTANCE (Constance)
+Concert,Bordeaux,theatre-la-pergola-a-bordeaux-30565,2025-05-24T20:30:00,les-amazones-242863,LES AMAZONES
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-05-24T21:00:00,pierre-emmanuel-barre-106825,PIERRE EMMANUEL BARRE
+Concert,Bordeaux,theatre-femina-1324,2025-05-25T19:00:00,on-ne-plaisante-pas-avec-lhumour-13885,ON NE PLAISANTE PAS AVEC L'HUMOUR
+Concert,Merignac,le-pin-galant-7410,2025-05-27T20:30:00,le-cirque-leroux-165519,LE CIRQUE LEROUX
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-05-27T20:30:00,vincent-niclo-127652,VINCENT NICLO
+Concert,Ares,espace-bremontier-a-ares-64357,2025-05-31T17:00:00,kid-palace-136394,KID PALACE
+Concert,Bordeaux,theatre-femina-1324,2025-05-31T20:00:00,carmen-julien-lestel-230697,CARMEN (Julien Lestel)
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-06-04T20:30:00,alex-fredo-188115,ALEX FREDO
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-06-05T20:30:00,charlie-haid-215527,CHARLIE HAID
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-06-07T19:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-06-07T20:30:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Saint Loubes,la-coupole-de-saint-loubes-2397,2025-06-10T15:00:00,la-belle-histoire-des-comedies-musicales-cie-trabucco-236601,LA BELLE HISTOIRE DES COMEDIES MUSICALES (Cie Trabucco)
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-06-11T20:00:00,gautier-capucon-63070,GAUTIER CAPUCON
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-06-11T20:30:00,julie-rousseau-30537,JULIE ROUSSEAU
+Concert,Bordeaux,theatre-femina-1324,2025-06-12T20:00:00,belinda-davids---a-tribute-to-whitney-houston-151980,BELINDA DAVIDS - A TRIBUTE TO WHITNEY HOUSTON
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-06-12T20:30:00,alexis-hk-141374,ALEXIS HK
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-06-13T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-06-13T21:00:00,noe-preszow-183137,NOE PRESZOW
+Concert,Le Haillan,lentrepot-du-haillan-11910,2025-06-14T21:00:00,oldelaf-20273,OLDELAF
+Concert,Bordeaux,opera-national-de-bordeaux--grand-theatre-auditorium-8446,2025-06-17T20:00:00,jordi-savall-47254,JORDI SAVALL
+Concert,Bordeaux,theatre-femina-1324,2025-06-19T19:30:00,vesselin-stanev-49769,VESSELIN STANEV
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-06-19T20:30:00,manon-bril-237873,MANON BRIL
+Concert,Bordeaux,limpromptu-a-bordeaux-68893,2025-06-20T20:00:00,pascal-pistone-67699,PASCAL PISTONE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-06-26T20:00:00,santa-44957,SANTA
+Concert,Bordeaux,theatre-femina-1324,2025-10-03T20:30:00,david-voinson-172146,DAVID VOINSON
+Concert,Bordeaux,theatre-femina-1324,2025-10-04T20:30:00,david-voinson-172146,DAVID VOINSON
+Concert,Bordeaux,theatre-casino-barriere-a-bordeaux-18073,2025-10-08T20:30:00,nawell-tout-court-14337,NAWELL TOUT COURT
+Concert,Bordeaux,theatre-femina-1324,2025-10-10T20:30:00,violet-13195,VIOLET
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-10-12T17:00:00,mania-the-abba-tribute-27965,"MANIA, THE ABBA TRIBUTE"
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-10-14T20:00:00,lara-fabian-7137,LARA FABIAN
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-10-22T20:30:00,toute-la-verite-rien-que-la-verite-ou-presque-12392,"TOUTE LA VERITE, RIEN QUE LA VERITE... OU PRESQUE"
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-11-01T20:00:00,amir-131315,AMIR
+Concert,Bordeaux,theatre-femina-1324,2025-11-02T20:00:00,brit-floyd-the-pink-floyd-tribute-show-94062,BRIT FLOYD (The Pink Floyd Tribute Show)
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-11-05T20:00:00,lamomali-156231,LAMOMALI
+Concert,Merignac,le-pin-galant-7410,2025-11-06T20:30:00,mireille-mathieu-23100,MIREILLE MATHIEU
+Concert,Bordeaux,theatre-femina-1324,2025-11-09T18:00:00,monsieur-doumbia-14437,MONSIEUR DOUMBIA
+Concert,Bordeaux,theatre-femina-1324,2025-11-13T20:30:00,sofiane-pamart-174547,SOFIANE PAMART
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-11-14T20:30:00,en-pleine-conscience-djal-13991,EN PLEINE CONSCIENCE (Djal)
+Concert,Bordeaux,theatre-femina-1324,2025-11-14T20:30:00,sofiane-pamart-174547,SOFIANE PAMART
+Concert,Bordeaux,theatre-femina-1324,2025-11-15T20:30:00,sofiane-pamart-174547,SOFIANE PAMART
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-11-16T00:00:00,larkin-poe-120068,LARKIN POE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-11-16T15:00:00,50-ans-damour--14537,50 ANS D'AMOUR !
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-11-21T20:00:00,soprano-39788,SOPRANO
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-11-21T20:30:00,amandine-lourdel-197915,AMANDINE LOURDEL
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-11-22T20:00:00,soprano-39788,SOPRANO
+Concert,Cenon,le-rocher-de-palmer-a-cenon-34504,2025-11-22T20:30:00,la-vie-de-ta-mere-13763,LA VIE DE TA MERE
+Concert,Bordeaux,theatre-femina-1324,2025-11-26T20:30:00,sarah-schwab-205361,SARAH SCHWAB
+Concert,Bordeaux,theatre-trianon-ex-centre-jean-vigo-a-bordeaux-22190,2025-11-26T20:30:00,lucie-carbone-198709,LUCIE CARBONE
+Concert,Bordeaux,theatre-femina-1324,2025-11-27T20:30:00,beaucoup-trop-jeremy-nadeau-14241,BEAUCOUP TROP (Jeremy Nadeau)
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-11-28T20:00:00,julien-dore-45638,JULIEN DORE
+Concert,Bordeaux,theatre-femina-1324,2025-12-03T20:00:00,lynda-lemay-829,LYNDA LEMAY
+Concert,Bordeaux,theatre-femina-1324,2025-12-05T20:30:00,marie-claude-pietragalla-175256,MARIE CLAUDE PIETRAGALLA
+Concert,Bordeaux,theatre-femina-1324,2025-12-07T18:00:00,dany-brillant-2848,DANY BRILLANT
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-12-09T20:00:00,gojira-21008,GOJIRA
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-12-10T20:00:00,clown-nest-pas-un-metier--14541,CLOWN N'EST PAS UN METIER !!
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-12-11T20:00:00,carmina-burana-ballet-orchestre-et-choeurs---opera-national-de-russie-148927,"CARMINA BURANA (Ballet, Orchestre Et Choeurs - Opera National De Russie)"
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-12-11T20:00:00,carmina-burana-franceconcert-126285,CARMINA BURANA (Franceconcert)
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-12-12T20:30:00,glory-alleluia-13421,GLORY ALLELUIA
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-12-13T20:00:00,m-pokora-34000,M. POKORA
+Concert,Bordeaux,theatre-femina-1324,2025-12-14T17:00:00,piaf-le-spectacle-138542,PIAF! LE SPECTACLE
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-12-15T20:30:00,david-voinson-172146,DAVID VOINSON
+Concert,Bordeaux,theatre-femina-1324,2025-12-18T20:00:00,le-lac-des-cygnes-ballet-de-lopera-national-tchaikovski-de-perm-143168,LE LAC DES CYGNES (Ballet De L'opera National Tchaikovski De Perm)
+Concert,Floirac,arkea-arena---bordeaux-53144,2025-12-19T20:00:00,helena-242807,HELENA
+Concert,Bordeaux,theatre-femina-1324,2025-12-19T20:30:00,bun-hay-mean-118636,BUN HAY MEAN
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-01-08T20:30:00,thomas-angelvy-152355,THOMAS ANGELVY
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-01-09T20:30:00,nora-hamzawi-62000,NORA HAMZAWI
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-01-11T17:30:00,goldmen-tribute-to-fredericks-goldman-jones-242891,GOLDMEN (Tribute to Fredericks Goldman Jones)
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-01-16T20:00:00,casse-noisette-british-festival-ballet-234901,CASSE-NOISETTE (British Festival Ballet)
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-01-17T20:30:00,michel-jonasz-85648,MICHEL JONASZ
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-01-20T00:00:00,la-ou-l-impossible-prend-vie-14545,LA OU L IMPOSSIBLE PREND VIE
+Concert,Bordeaux,theatre-femina-1324,2026-01-20T20:00:00,dans-les-yeux-daudrey-francois-mauduit-216001,DANS LES YEUX D'AUDREY (François Mauduit)
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-01-22T20:00:00,la-fouine-34055,LA FOUINE
+Concert,Bordeaux,theatre-femina-1324,2026-01-28T20:30:00,jeck-131456,JECK
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-01-29T20:00:00,generation-celine-taimer-encore-236693,"GENERATION CELINE ""T'AIMER ENCORE"""
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-01-30T20:30:00,par-amour-14327,PAR AMOUR
+Concert,Bordeaux,theatre-femina-1324,2026-01-30T20:30:00,marine-leonardi-219513,MARINE LEONARDI
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-01-31T20:30:00,par-amour-14327,PAR AMOUR
+Concert,Bordeaux,theatre-femina-1324,2026-01-31T20:30:00,julien-santini-133206,JULIEN SANTINI
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-02-05T20:00:00,louane-138473,LOUANE
+Concert,Bordeaux,theatre-femina-1324,2026-02-06T20:30:00,abba-fever-54499,ABBA FEVER
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-02-14T20:00:00,carmina-burana-franceconcert-126285,CARMINA BURANA (Franceconcert)
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-02-28T20:00:00,kendji-girac-133392,KENDJI GIRAC
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-03-04T20:00:00,i-gotta-feeling-228035,I GOTTA FEELING
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-03-11T20:00:00,jeremy-frerot-110447,JEREMY FREROT
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-03-12T00:00:00,the-world-of-queen-12569,THE WORLD OF QUEEN
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-03-14T20:00:00,parades-13847,PARADES
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-03-17T20:00:00,lara-fabian-7137,LARA FABIAN
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-03-26T20:00:00,compagnie-bejart-ballet-lausanne-99028,COMPAGNIE BEJART BALLET LAUSANNE
+Concert,Bordeaux,theatre-femina-1324,2026-03-28T18:00:00,bonjour-quand-meme-14525,BONJOUR QUAND MEME
+Concert,Bordeaux,theatre-femina-1324,2026-04-18T20:30:00,kim-wilde-39151,KIM WILDE
+Concert,Bordeaux,theatre-femina-1324,2026-04-24T20:30:00,imparfaits-13153,IMPARFAITS
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-05-22T20:00:00,les-annees-80---la-tournee-67227,LES ANNEES 80 - LA TOURNEE
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-06-02T20:00:00,black-legends---le-plus-grand-hommage-a-la-musique-afro-americaine-196349,BLACK LEGENDS - LE PLUS GRAND HOMMAGE A LA MUSIQUE AFRO-AMERICAINE
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-06-13T15:00:00,le-roi-soleil-29703,LE ROI SOLEIL
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-06-13T20:30:00,le-roi-soleil-29703,LE ROI SOLEIL
+Concert,Floirac,arkea-arena---bordeaux-53144,2026-06-26T20:00:00,the-jeff-panacloc-company-38172,THE JEFF PANACLOC COMPANY
+Concert,Bordeaux,theatre-femina-1324,2026-12-05T20:30:00,arnaud-tsamere-31057,ARNAUD TSAMERE
