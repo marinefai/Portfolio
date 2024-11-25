@@ -1,6 +1,6 @@
 # Folders to ignore
-/Projects/Data
-/Projects/Graphs
+/Projects/Data/
+/Projects/Graphs/
 
 
 # Byte-compiled / optimized / DLL files
