@@ -22,6 +22,11 @@ Today, I’m back to freelancing! This role allows me to balance my passion for 
 ## 📂 What You’ll Find Here
 
 This GitHub is a space where I showcase my technical skills and interests. Expect to see projects in business and finance, but also creative applications of data to make it more accessible and fun! 📊✨
+Here are the current projects you can find in my git, and there associated Medium Post :pencil:
+
+* Events programmation in Gironde department :
+  * Medium post : https://medium.com/p/bb6c39c288c4/edit
+  * Notebook : https://github.com/marinefai/Portfolio/blob/main/Projects/Notebooks/Concert%20Bordeaux.ipynb
 
 ## 🤝 Let’s Connect!
 
