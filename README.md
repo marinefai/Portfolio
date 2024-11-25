@@ -30,4 +30,7 @@ Here are the current projects you can find in my git, and there associated Mediu
 
 ## 🤝 Let’s Connect!
 
-I’d love to connect with you! If you have inquiries, project ideas, or just want to say hi, feel free to reach out.
+I’d love to connect with you! If you have inquiries, project ideas, or just want to say hi, feel free to reach out...
+
+LinkedIn : https://www.linkedin.com/in/marine-thierry1/
+Medium : https://medium.com/@marinefai
