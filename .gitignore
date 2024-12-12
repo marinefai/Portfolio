@@ -1,7 +1,10 @@
 # Folders to ignore
 /Projects/Data/*
 /Projects/Graphs/*
-/WIP/*
+/Projects/WIP/*
+./.gitignore
+./.gitattributes
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
